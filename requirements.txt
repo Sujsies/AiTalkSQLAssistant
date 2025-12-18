@@ -1,0 +1,11 @@
+# aitalk_sql_assistant/requirements.txt
+
+customtkinter
+mysql-connector-python
+psycopg2-binary
+SpeechRecognition
+pyttsx3
+reportlab
+matplotlib
+Pillow
+google-generativeai
